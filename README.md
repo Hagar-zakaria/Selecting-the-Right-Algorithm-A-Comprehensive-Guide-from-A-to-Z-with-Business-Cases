@@ -1,6 +1,9 @@
 # Selecting-the-Right-Algorithm-A-Comprehensive-Guide-from-A-to-Z-with-Business-Cases
 Selecting the right machine learning algorithm is key to model success. This guide covers data understanding, cleaning, initial statistical analysis, and choosing suitable algorithms based on data characteristics. Practical business cases illustrate each step, helping you make informed choices and improve model performance.
 
+![image](https://github.com/Hagar-zakaria/Selecting-the-Right-Algorithm-A-Comprehensive-Guide-from-A-to-Z-with-Business-Cases/assets/93611934/ee26bc12-43d8-4067-acd9-1c7e48d78a0b)
+
+
 # Introduction
 When building machine learning models, one of the crucial decisions is selecting the right algorithm. This choice can significantly impact the performance and effectiveness of your model. While it is common practice to try multiple algorithms and select the best one based on evaluation metrics, there are statistical methods and initial data analysis techniques that can guide you in making an informed choice before model training. This article will take you through the process from A to Z, with practical business cases and examples to illustrate each step.
 
